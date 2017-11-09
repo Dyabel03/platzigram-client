@@ -16,6 +16,7 @@
     "ava": "^0.23.0",
     "babel-eslint": "^8.0.2",
     "nock": "^9.0.28",
+    "platzigram-db": "Dyabel03/platzigram-db",
     "standard": "^10.0.3",
     "uuid-base62": "^0.1.0"
   },
